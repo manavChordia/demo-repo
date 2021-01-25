@@ -5,4 +5,4 @@ Demo repository for learning git and github
 Making progress
 
 ## local development
-1. opena nd run index.html
+1. open a nd run index.html
